@@ -6,6 +6,8 @@ import App from './component/App'
 // import { store } from "./store.js";
 // import { router } from "./router.js";
 
+console.log('test log');
+
 // render the main component
 ReactDOM.render(
 	<App />,	document.getElementById('app')
